@@ -5,3 +5,9 @@
   <a href="https://nexusmods.com/profile/FrvrRoyals">Nexus Mods</a> •
   <a href="https://youtube.com/@FrvrRoyals">YouTube</a>
 </p>
+
+---
+
+Gamer, developer & tech enthusiast at heart.
+
+Building ideas into reality.
