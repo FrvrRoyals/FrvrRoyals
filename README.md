@@ -1,13 +1,7 @@
-<h3 align="center">👋 Hi there, I'm Royals</h3>
+<h1 align="center">👋 Hi there, I'm Royals</h1>
 
 <p align="center">
   <a href="https://royaltylabs.github.io">Website</a> •
   <a href="https://nexusmods.com/profile/FrvrRoyals">Nexus Mods</a> •
   <a href="https://youtube.com/@FrvrRoyals">YouTube</a>
 </p>
-
----
-
-Gamer, developer & tech enthusiast at heart.
-
-Building ideas into reality.
