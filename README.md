@@ -1,4 +1,5 @@
-<h1 align="center">👋 Kia ora, welcome to my profile!</h1>
+<h1 align="center">👋 Kia ora!</h1>
+<h2 align="center">Welcome to my profile</h2>
 
 <p align="center">
   <a href="https://royaltylabs.github.io">Website</a> •
